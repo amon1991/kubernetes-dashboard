@@ -1822,7 +1822,7 @@
         "options": [],
         "query": "SHOW TAG VALUES FROM \"uptime\" WITH KEY=pod_name WHERE \"namespace_name\"='$ns'",
         "refresh": 1,
-        "regex": "/^(.*)-\\d{9,}-\\w{5,}$/",
+        "regex": "",
         "sort": 0,
         "tagValuesQuery": "",
         "tags": [],
